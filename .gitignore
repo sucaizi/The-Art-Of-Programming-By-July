@@ -44,3 +44,10 @@ Thumbs.db
 # python compiled binary
 *.pyc
 ebook/build/build/
+*.~pas
+*.dcu
+*.res
+*.dof
+*.cfg
+*.dfm
+*.dpr
